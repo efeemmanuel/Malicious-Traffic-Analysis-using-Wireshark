@@ -30,7 +30,9 @@ Malware often uses DNS to communicate with Command-and-Control (C2) servers or m
 1. Open Wireshark and start capturing network traffic.
 2. To focus only on DNS traffic, apply the filter `dns` in the filter bar.
 
-![dns](https://github.com/user-attachments/assets/4748f7d1-3dae-4659-bbc3-870f2a693cb3)
+![Alt Text](https://github.com/user-attachments/assets/4748f7d1-3dae-4659-bbc3-870f2a693cb3)
+
+https://github.com/efeemmanuel/Malicious-Traffic-Analysis-using-Wireshark/blob/main/README.md
 
 *Figure 1: Wireshark with DNS filter applied.*
 
