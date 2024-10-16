@@ -1,7 +1,7 @@
 # Malicious Traffic Analysis using Wireshark
 
 ## Objective
-This project aims to leverage my skills in network traffic analysis and malware detection using Wireshark to identify and mitigate cybersecurity threats. The focus is on analyzing DNS queries, HTTP/HTTPS traffic, and extracting Indicators of Compromise (IOCs) to enhance network security and prevent potential breaches.
+This project aims to leverage my skills in network traffic analysis and malware detection using Wireshark to identify and mitigate cybersecurity threats. The focus is on analyzing DNS queries, HTTP/HTTPS traffic, and extracting Indicators of Compromise (IOCs) to enhance network security and prevent potential breaches
 
 
 ### Skills Learned
